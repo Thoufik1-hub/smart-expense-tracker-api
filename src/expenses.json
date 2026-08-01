@@ -1,0 +1,14 @@
+[
+  {
+    "id": 2,
+    "title": "Cloud Hosting",
+    "amount": 45.5,
+    "category": "Software"
+  },
+  {
+    "id": 1785564839421,
+    "title": "Internet Bill",
+    "amount": 800,
+    "category": "Bills"
+  }
+]
